@@ -1,0 +1,2 @@
+    1. BOM = Browser Object Model
+    2. DOM = Document Object Model
